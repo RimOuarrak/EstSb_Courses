@@ -27,21 +27,18 @@
     <div>
       <h3 class="float-md-start mb-0">ESTSBcourses</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link active" aria-current="page" href="#">Home</a>
-        <a class="nav-link" href="#">Cours</a>
-        <a class="nav-link" href="#">TDs</a>
-        <a class="nav-link" href="#">TPs</a>
-        <a class="nav-link" href="#">Examens</a>
-        <a class="nav-link" href="#">Logiciels</a>
+        <a class="nav-link" href="/welcome">Home</a>
+        <a class="nav-link active" aria-current="page" href="/cours">Cours</a>
+        <a class="nav-link" href="/td">TDs</a>
+        <a class="nav-link" href="/tp">TPs</a>
+        <a class="nav-link" href="/exam">Examens</a>
+        <a class="nav-link" href="/lgcl">Logiciels</a>
       </nav>
     </div>
   </header>
   <main class="px-3">
-    <h1>This is ESTSB's students space</h1>
-    <p class="lead">Here you will find some ESTSB's courses and exercices and other usefull things that will help you in your studies.</p>
-    <p class="lead">
-      <a href="/learn" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Learn more ></a>
-    </p>
+
+
   </main>
 
   <footer class="mt-auto text-white-50">
